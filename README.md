@@ -1,5 +1,15 @@
-# 💫 About Me:
-Problem-solving enthusiast mastering C++ & DSA and exploring backend development with Node.js.<br>Open to collaborate on backend projects, coding challenges, and team-based solutions.<br>Always happy to help with logic problems and share programming insights.<br>Fun fact: I get a dopamine boost every time a problem I solve gets Accepted. 😎
+# 💫 About Me
+
+Hi there! I'm a **problem solver** fueled by curiosity and caffeine ☕💻.  
+On a mission to master **C++ & DSA**, dive into **backend development with Node.js**, and tackle coding challenges head-on.  
+
+I enjoy:  
+- Collaborating on backend projects and team-based solutions 🤝  
+- Debugging tricky logic problems 🧩  
+- Turning complex problems into elegant solutions ✨  
+
+Always eager to learn, share knowledge, and level up my coding game 😎
+
 
 
 ## 🌐 Socials:
