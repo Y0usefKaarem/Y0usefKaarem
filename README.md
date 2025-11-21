@@ -1,14 +1,17 @@
-# 💫 About Me
+#  About Me
 
-Hi there! I'm a **problem solver** fueled by curiosity and caffeine ☕💻.  
-On a mission to master **C++ & DSA**, dive into **backend development with Node.js**, and tackle coding challenges head-on.  
+Hi there! I'm a problem solver driven by curiosity and a love for coding ☕💻.
+Currently pursuing a B.Tech in ICT – Software Development track, with a focus on mastering C++ & DSA and exploring backend development with Node.js.
 
-I enjoy:  
-- Collaborating on backend projects and team-based solutions 🤝  
-- Debugging tricky logic problems 🧩  
-- Turning complex problems into elegant solutions ✨  
+I enjoy:
 
-Always eager to learn, share knowledge, and level up my coding game 😎
+Collaborating on projects and crafting team-based solutions 🤝
+
+Debugging challenging logic problems 🧩
+
+Turning complex problems into clean, efficient solutions ✨
+
+Always eager to learn, share knowledge, and continuously level up my coding skill
 
 
 
