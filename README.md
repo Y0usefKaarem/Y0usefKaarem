@@ -1,7 +1,8 @@
 #  About Me
 
 Hi there! I'm a problem solver driven by curiosity and a love for coding ☕💻.
-Currently pursuing a B.Tech in ICT – Software Development track, with a focus on mastering C++ & DSA and exploring backend development with Node.js.
+Currently pursuing a B.Tech in ICT –
+Software Development track, with a focus on mastering C++ & DSA and exploring backend development with Node.js.
 
 I enjoy:
 
